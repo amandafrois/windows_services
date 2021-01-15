@@ -1,0 +1,8 @@
+C:\Users\1882316\source\repos\Amandapplication\bin\Debug\Amandapplication.exe.config
+C:\Users\1882316\source\repos\Amandapplication\bin\Debug\Amandapplication.exe
+C:\Users\1882316\source\repos\Amandapplication\bin\Debug\Amandapplication.pdb
+C:\Users\1882316\source\repos\Amandapplication\obj\Debug\Amandapplication.ProjectInstaller.resources
+C:\Users\1882316\source\repos\Amandapplication\obj\Debug\Amandapplication.csproj.GenerateResource.cache
+C:\Users\1882316\source\repos\Amandapplication\obj\Debug\Amandapplication.csproj.CoreCompileInputs.cache
+C:\Users\1882316\source\repos\Amandapplication\obj\Debug\Amandapplication.exe
+C:\Users\1882316\source\repos\Amandapplication\obj\Debug\Amandapplication.pdb
