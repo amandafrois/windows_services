@@ -31,13 +31,14 @@ Inside the *InitializeComponent*, below *// serviceProcessInstaller1*, add this 
 
 If you want to, after *// serviceInstaller1*, add descrption and the display name of your service. As mine:
 
-        this.serviceInstaller1.Description = "A key generator service";  
-        this.serviceInstaller1.DisplayName = "KeyGenerator";  
+        this.serviceInstaller1.Description = "A service for ...";  
+        this.serviceInstaller1.DisplayName = "Name who'll appears on Services list";  
 
 
 <h3>Write your code on Service1.cs Class</h3>
 
-Now, in the __Service1.cs__ file, you can write the Service code. This is my [code](https://github.com/amandafrois/windows_services/blob/main/Service1.cs).
+Now, in the __Service1.cs__ file, you can write the Service code. 
+This is a example of [code](https://github.com/amandafrois/windows_services/blob/main/Service1.cs), that I've created to a Service who generates keys in new .txt files, 10 seconds.
 
 After you finished, Build (or Rebuild) your application, right-clicking on your project solution.
 
